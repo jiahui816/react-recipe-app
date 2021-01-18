@@ -1,3 +1,8 @@
+A fun project to try out fetch() instead of using Axios in most of my project.
+
+API Website = https://www.edamam.com/
+Project is created using React.js 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
